@@ -2,7 +2,7 @@
 
 A responsive product preview card built with **HTML** and **CSS**, based on a design challenge from [Frontend Mentor](https://www.frontendmentor.io/).
 
-![Preview](./design/desktop-design.jpg)
+![Preview](./images/desktop-design.jpg)
 
 ## 🚀 Features
 
@@ -22,10 +22,11 @@ A responsive product preview card built with **HTML** and **CSS**, based on a de
 ## 📸 Screenshots
 
 ### Desktop View  
-<img src="./design/desktop-design.jpg" width="500"/>
+<img src="./images/screenshot-desktop.png" width="500"/>
 
 ### Mobile View  
-<img src="./design/mobile-design.jpg" width="300"/>
+<img src="./images/screenshot-mobile.png" width="300"/>
+
 
 ## 📦 How to Use
 
